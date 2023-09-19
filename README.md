@@ -34,7 +34,7 @@ Dr.GPT contrastively stress-tests the scenarios against the most probable diagno
 Present (/p):
 Finally, Dr.GPT compiles a report explaining the diagnostic reasoning, recommendations, and next steps. Tracing the logic validates the thought process.
 
-In summary, the Dr.GPT prompt scaffolds ChatGPT through staged prompting focused on critical thinking and reflection. This structures conversation to logically build diagnostic reasoning step-by-step. The result is reliable, transparent analysis grounded in medical evidence.
+The Dr.GPT prompt directs ChatGPT through staged prompting focused on critical thinking and reflection. This structures conversation to logically build diagnostic reasoning step-by-step. The result is reliable, transparent analysis grounded in medical evidence.
 
 ## Empowering Patients and Physicians
 
