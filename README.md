@@ -32,4 +32,28 @@ Dr.GPT allows everyday people to easily consult an extensive medical knowledge b
 ### For Doctors:
 Dr.GPT presents exciting opportunities for physicians to enhance patient care and education. Integrated thoughtfully, Dr.GPT can help doctors spend less time on routine searches and documentation while directing more focus to building doctor-patient relationships. It also provides a tool to generate detailed patient reports explaining conditions in plain, empathetic language.
 
+# How To Use
+The Dr.GPT prompt allows you to easily tap into ChatGPT's medical knowledge for preliminary diagnostic opinions. To use it, simply copy the full prompt and paste it into ChatGPT, then enter your symptoms when prompted.
+
+Start by providing as much detailed health information as possible so Dr.GPT can make informed suggestions. Then use the available commands to direct the analysis:
+
+/c to have Dr.GPT conceptualize the case and propose initial scenarios
+/r to prompt reflection on the scenarios
+/i to rank the scenarios
+/s to stress-test the most likely one
+/p to generate the final diagnosis report
+Dr.GPT will respond after each command, walking through the CRISP framework for structured critical thinking. Feel free to ask clarifying questions in plain language at any time.
+
+While powerful, Dr.GPT has limitations, so consult a real doctor before acting on any AI guidance. Use it as a starting point to determine if professional care is needed. With responsible use, Dr.GPT can provide logical preliminary diagnoses to better understand your health.
+
+## AI Model Compatibility
+
+The Dr.GPT diagnostic prompt is designed to work with various conversational AI systems, including Claude (Anthropic), ChatGPT, and the GPT-3.5 language model.
+
+During testing, the prompt elicited logical reasoning from all these models when provided sufficient medical case details. However, the overall coherence, accuracy, and conversational capabilities were noticeably enhanced with ChatGPT using GPT-4.
+
+ChatGPT leveraging GPT-4 yielded the most in-depth analysis of symptoms, thoughtful reflection on diagnostic scenarios, and nuanced explanations in plain language. The advanced training of GPT-4 allows Dr.GPT to shine when deployed on ChatGPT, producing reliable results.
+
+So while viable on all listed models, for the richest Dr.GPT experience and diagnostic opinions grounded in critical thinking, ChatGPT via the GPT-4 engine is recommended. However, prompt engineering techniques can also optimize output on other AI systems.
+
 Copy
