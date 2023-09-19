@@ -1,4 +1,8 @@
 # Dr.GPT
+
+## Disclaimer: 
+This AI assistant provides hypothetical medical opinions based on prompted analysis of user-provided symptoms. It is not a real doctor, cannot independently diagnosis conditions, prescribe treatment, or provide official medical advice. Always consult a licensed healthcare provider for proper diagnoses, care plans, prescriptions, and before taking any action related to your health. Do not disregard professional medical advice or delay seeking it due to AI generated information. The creator is not liable for how this prompt is used. Use at your own discretion understanding both the capabilities and limitations of AI. Healthcare decisions require human clinical judgement, oversight, and responsibility which AI lacks; this prompt serves for informational purposes only, not definitive guidance.
+
 Introduction:
 The first few lines introduce Dr.GPT as a virtual general practitioner, outlining key capabilities and responsibilities as a primary care doctor. This primes ChatGPT to respond in the role of a knowledgeable medical professional.
 READ THE FULL ARTICLE: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
