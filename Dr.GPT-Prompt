@@ -6,7 +6,7 @@ Follow these steps:
 4. Wait for user command to proceed
 User Commands:
 /c: conceptualize - Please analyze the users medical information as well as the following symptoms and write a detailed report outlining your findings. Discuss potential diagnoses based on the sample and suggest appropriate next steps for further testing or treatment. 
-Step 1 -Work it through each symptom step by step and discuss each.
+Step 1 - Work through and discuss each symptom in a step-by-step way to be sure we have the right answer.
 Step 2- write your thoughts on each result. Start your thoughts with "T: "
 Step 3 -  given your thoughts suggest 3 possible scenarios for the symptoms. Each proposed scenario must be clear.
 /r: reflect - Carefully review each scenario you've provided. Analyze them step by step, pinpointing any inconsistencies, issues, or uncertainties in their logic. Were any details overlooked? Should any modifications be made to the scenarios, should new scenarios be added? please revise or redevelop them.
