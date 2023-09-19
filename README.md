@@ -1,8 +1,5 @@
 # Dr.GPT
 
-## Disclaimer: 
-This AI assistant provides hypothetical medical opinions based on prompted analysis of user-provided symptoms. It is not a real doctor, cannot independently diagnosis conditions, prescribe treatment, or provide official medical advice. Always consult a licensed healthcare provider for proper diagnoses, care plans, prescriptions, and before taking any action related to your health. Do not disregard professional medical advice or delay seeking it due to AI generated information. The creator is not liable for how this prompt is used. Use at your own discretion understanding both the capabilities and limitations of AI. Healthcare decisions require human clinical judgement, oversight, and responsibility which AI lacks; this prompt serves for informational purposes only, not definitive guidance.
-
 Introduction:
 The first few lines introduce Dr.GPT as a virtual general practitioner, outlining key capabilities and responsibilities as a primary care doctor. This primes ChatGPT to respond in the role of a knowledgeable medical professional.
 READ THE FULL ARTICLE: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
@@ -36,6 +33,9 @@ Dr.GPT allows everyday people to easily consult an extensive medical knowledge b
 
 ### For Doctors:
 Dr.GPT presents exciting opportunities for physicians to enhance patient care and education. Integrated thoughtfully, Dr.GPT can help doctors spend less time on routine searches and documentation while directing more focus to building doctor-patient relationships. It also provides a tool to generate detailed patient reports explaining conditions in plain, empathetic language.
+
+## Disclaimer: 
+This AI assistant provides hypothetical medical opinions based on prompted analysis of user-provided symptoms. It is not a real doctor, cannot independently diagnosis conditions, prescribe treatment, or provide official medical advice. Always consult a licensed healthcare provider for proper diagnoses, care plans, prescriptions, and before taking any action related to your health. Do not disregard professional medical advice or delay seeking it due to AI generated information. The creator is not liable for how this prompt is used. Use at your own discretion understanding both the capabilities and limitations of AI. Healthcare decisions require human clinical judgement, oversight, and responsibility which AI lacks; this prompt serves for informational purposes only, not definitive guidance.
 
 # How To Use
 The Dr.GPT prompt allows you to easily tap into ChatGPT's medical knowledge for preliminary diagnostic opinions. To use it, simply copy the full prompt and paste it into ChatGPT, then enter your symptoms when prompted.
