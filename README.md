@@ -2,8 +2,6 @@
 
 ## Introduction:
 CRISP Framework Foundation: https://www.promptengineering.org/the-crisp-method-a-dynamic-framework-for-advanced-ai-reasoning-and-decision-making/
-https://www.promptengineering.org/content/images/size/w1600/2023/09/CRISP-Prompt-Engineering-Framework.png![Uploading image.png…]()
-
 
 Read The Full Article on DR GPT Here: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
 
