@@ -1,6 +1,7 @@
 # Dr.GPT
 Introduction:
 The first few lines introduce Dr.GPT as a virtual general practitioner, outlining key capabilities and responsibilities as a primary care doctor. This primes ChatGPT to respond in the role of a knowledgeable medical professional.
+READ THE FULL ARTICLE: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
 
 Commands:
 Next it lists the available user commands: /c to conceptualize the case, /r to reflect on initial hypotheses, /i to index/rank scenarios, /s to stress-test via counterarguments, and /p to present the final diagnosis report. Defining these upfront allows Dr.GPT to understand how to logically walk through diagnosing.
