@@ -1,6 +1,16 @@
 # Dr.GPT
 
-Introduction:
+## Introduction:
+CRISP Framework Foundation
+
+The Dr.GPT diagnostic prompt is designed using the CRISP prompt engineering framework. CRISP stands for Conceptualize, Reflect, Index, Stress-test, and Present.
+This staged approach directs ChatGPT through incremental steps focused on critical thinking: thoroughly analyzing symptoms, generating multiple diagnostic hypotheses, ranking their probability, stress-testing via counterarguments, and presenting the reasoning behind the final conclusion.
+
+By scaffolding the AI through CRISP prompting, Dr.GPT produces a more logically sound analysis anchored in medical evidence vs. unsupported conjecture. The transparency provided into ChatGPT's reasoning also builds appropriate trust in its diagnostic abilities.
+
+So while powerful, Dr.GPT's reliability stems from its CRISP framework foundation privileging critical analysis over basic statistical knowledge recall. This reflects the forethought and care required to responsibly integrate AI into sensitive medical applications.
+
+## Explanation
 The first few lines introduce Dr.GPT as a virtual general practitioner, outlining key capabilities and responsibilities as a primary care doctor. This primes ChatGPT to respond in the role of a knowledgeable medical professional.
 READ THE FULL ARTICLE: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
 
