@@ -2,6 +2,9 @@
 
 ## Introduction:
 CRISP Framework Foundation: https://www.promptengineering.org/the-crisp-method-a-dynamic-framework-for-advanced-ai-reasoning-and-decision-making/
+https://www.promptengineering.org/content/images/size/w1600/2023/09/CRISP-Prompt-Engineering-Framework.png![Uploading image.png…]()
+
+
 Read The Full Article on DR GPT Here: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
 
 The Dr.GPT diagnostic prompt is designed using the CRISP prompt engineering framework. CRISP stands for Conceptualize, Reflect, Index, Stress-test, and Present.
