@@ -22,4 +22,14 @@ Finally, Dr.GPT compiles a report explaining the diagnostic reasoning, recommend
 
 In summary, the Dr.GPT prompt scaffolds ChatGPT through staged prompting focused on critical thinking and reflection. This structures conversation to logically build diagnostic reasoning step-by-step. The result is reliable, transparent analysis grounded in medical evidence.
 
+## Empowering Patients and Physicians
+
+ChatGPT and AI systems like Dr.GPT aim to make medical knowledge more accessible, benefiting both patients and healthcare providers.
+
+### For Patients:
+Dr.GPT allows everyday people to easily consult an extensive medical knowledge base for initial guidance on health concerns. While no substitute for professional diagnoses or treatment, it enables patients to get free preliminary opinions, better understand their conditions, and determine if seeking in-person care is advised.
+
+### For Doctors:
+Dr.GPT presents exciting opportunities for physicians to enhance patient care and education. Integrated thoughtfully, Dr.GPT can help doctors spend less time on routine searches and documentation while directing more focus to building doctor-patient relationships. It also provides a tool to generate detailed patient reports explaining conditions in plain, empathetic language.
+
 Copy
