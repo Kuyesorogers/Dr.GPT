@@ -1,5 +1,6 @@
 # Dr.GPT
-
+🔍 Mystery Aches? Sneaky Sniffles? Unknown Upsets?
+Unmask those symptoms with Dr. GPT!
 ## Introduction:
 CRISP Framework Foundation: 
 https://www.promptengineering.org/the-crisp-method-a-dynamic-framework-for-advanced-ai-reasoning-and-decision-making/
