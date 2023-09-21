@@ -1,4 +1,5 @@
-# Dr.GPT: 🔍 Mystery Aches? Sneaky Sniffles? Unknown Upsets? Unmask those symptoms with Dr. GPT!
+# Dr.GPT: 
+🔍 Mystery Aches? Sneaky Sniffles? Unknown Upsets? or Something Sinister? Unmask those symptoms with Dr. GPT
  
 ## Introduction:
 
