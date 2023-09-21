@@ -21,7 +21,7 @@ The first few lines introduce Dr.GPT as a virtual general practitioner, outlinin
 READ THE FULL ARTICLE: https://www.promptengineering.org/getting-started-with-chatgpt-for-health-needs/
 
 Commands:
-Next it lists the available user commands: /c to conceptualize the case, /r to reflect on initial hypotheses, /i to index/rank scenarios, /s to stress-test via counterarguments, and /p to present the final diagnosis report. Defining these upfront allows Dr.GPT to understand how to logically walk through diagnosing.
+Next it lists the available user commands: /c to conceptualize the case, /r to reflect on initial hypotheses, /i to index/rank scenarios, /s to stress-test via counterarguments, and /p to present the final diagnosis report. Defining these upfront allows Dr  GPT to understand how to logically walk through diagnosing.
 
 Conceptualize (/c):
 This section directs Dr.GPT to analyze symptoms, discuss each one, tag key thoughts with "T:", and propose 3 initial diagnostic scenarios. Walking through the data piece-by-piece prevents jumping to conclusions.
@@ -38,7 +38,7 @@ Dr.GPT contrastively stress-tests the scenarios against the most probable diagno
 Present (/p):
 Finally, Dr.GPT compiles a report explaining the diagnostic reasoning, recommendations, and next steps. Tracing the logic validates the thought process.
 
-The Dr.GPT prompt directs ChatGPT through staged prompting focused on critical thinking and reflection. This structures conversation to logically build diagnostic reasoning step-by-step. The result is reliable, transparent analysis grounded in medical evidence.
+The Dr GPT prompt directs ChatGPT through staged prompting focused on critical thinking and reflection. This structures conversation to logically build diagnostic reasoning step-by-step. The result is a reliable, transparent analysis grounded in medical evidence.
 
 ## Empowering Patients and Physicians
 
@@ -51,7 +51,7 @@ Dr.GPT allows everyday people to easily consult an extensive medical knowledge b
 Dr.GPT presents exciting opportunities for physicians to enhance patient care and education. Integrated thoughtfully, Dr.GPT can help doctors spend less time on routine searches and documentation while directing more focus to building doctor-patient relationships. It also provides a tool to generate detailed patient reports explaining conditions in plain, empathetic language.
 
 ## Disclaimer: 
-This AI assistant provides hypothetical medical opinions based on prompted analysis of user-provided symptoms. It is not a real doctor, cannot independently diagnosis conditions, prescribe treatment, or provide official medical advice. Always consult a licensed healthcare provider for proper diagnoses, care plans, prescriptions, and before taking any action related to your health. Do not disregard professional medical advice or delay seeking it due to AI generated information. The creator is not liable for how this prompt is used. Use at your own discretion understanding both the capabilities and limitations of AI. Healthcare decisions require human clinical judgement, oversight, and responsibility which AI lacks; this prompt serves for informational purposes only, not definitive guidance.
+This AI assistant provides hypothetical medical opinions based on prompted analysis of user-provided symptoms. It is not a real doctor, and cannot independently diagnose conditions, prescribe treatment, or provide official medical advice. Always consult a licensed healthcare provider for proper diagnoses, care plans, prescriptions, and before taking any action related to your health. Do not disregard professional medical advice or delay seeking it due to AI-generated information. The creator is not liable for how this prompt is used. Use at your own discretion understanding both the capabilities and limitations of AI. Healthcare decisions require human clinical judgement, oversight, and responsibility which AI lacks; this prompt serves for informational purposes only, not definitive guidance.
 
 # How To Use
 The Dr.GPT prompt allows you to easily tap into ChatGPT's medical knowledge for preliminary diagnostic opinions. To use it, simply copy the full prompt and paste it into ChatGPT, then enter your symptoms when prompted.
@@ -69,11 +69,11 @@ While powerful, Dr.GPT has limitations, so consult a real doctor before acting o
 
 ## AI Model Compatibility
 
-The Dr.GPT diagnostic prompt is designed to work with various conversational AI systems, including Claude (Anthropic), ChatGPT, and the GPT-3.5 language model.
+The Dr GPT diagnostic prompt is designed to work with various conversational AI systems, including Claude (Anthropic), ChatGPT, and the GPT-3.5 language model.
 
-During testing, the prompt elicited logical reasoning from all these models when provided sufficient medical case details. However, the overall coherence, accuracy, and conversational capabilities were noticeably enhanced with ChatGPT using GPT-4.
+During testing, the prompt elicited logical reasoning from all these models when provided with sufficient medical case details. However, the overall coherence, accuracy, and conversational capabilities were noticeably enhanced with ChatGPT using GPT-4.
 
-ChatGPT leveraging GPT-4 yielded the most in-depth analysis of symptoms, thoughtful reflection on diagnostic scenarios, and nuanced explanations in plain language. The advanced training of GPT-4 allows Dr.GPT to shine when deployed on ChatGPT, producing reliable results.
+ChatGPT leveraging GPT-4 yielded the most in-depth analysis of symptoms, thoughtful reflection on diagnostic scenarios, and nuanced explanations in plain language. The advanced training of GPT-4 allows Dr GPT to shine when deployed on ChatGPT, producing reliable results.
 
 So while viable on all listed models, for the richest Dr.GPT experience and diagnostic opinions grounded in critical thinking, ChatGPT via the GPT-4 engine is recommended. However, prompt engineering techniques can also optimize output on other AI systems.
 
